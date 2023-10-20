@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import matplotlib.pyplot as plt
 import pandas as pd
 import requests
-
+import json
 from dagster import (
     MetadataValue,
     Output,
@@ -129,7 +129,7 @@ def Taipei_Traffic():
 
 @asset()
 def Weather_Data():
-    url = "https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001?Authorization=CWB-569DE3A1-EDEC-4FCD-BA1A-6EBA8982BC6B&format=XML&sort=time" 
+    url = "https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001?Authorization=CWA-3A61AFA8-BF84-4F8B-B56B-5C4608710D53&format=XML&locationName=&elementName=" 
     response = requests.get(url)
     response.raise_for_status()
     xml_data = response.text
