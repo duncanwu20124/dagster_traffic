@@ -1,0 +1,7 @@
+[32m2023-11-01 02:55:13 +0000[0m - dagster - [34mDEBUG[0m - data_job - e2643524-c2d0-4f33-9f63-d698635ee978 - 961347 - LOGS_CAPTURED - Started capturing logs in process (pid: 961347).
+[32m2023-11-01 02:55:13 +0000[0m - dagster - [34mDEBUG[0m - data_job - e2643524-c2d0-4f33-9f63-d698635ee978 - 961347 - Taipei_Traffic - STEP_START - Started execution of step "Taipei_Traffic".
+[32m2023-11-01 02:57:01 +0000[0m - dagster - [34mDEBUG[0m - data_job - e2643524-c2d0-4f33-9f63-d698635ee978 - 961347 - Taipei_Traffic - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-11-01 02:57:01 +0000[0m - dagster - [34mDEBUG[0m - data_job - e2643524-c2d0-4f33-9f63-d698635ee978 - Taipei_Traffic - Writing file at: /home/duncan/dagster_traffic/data/tmpzyvzjv_3/storage/Taipei_Traffic
+[32m2023-11-01 02:57:01 +0000[0m - dagster - [34mDEBUG[0m - data_job - e2643524-c2d0-4f33-9f63-d698635ee978 - 961347 - Taipei_Traffic - ASSET_MATERIALIZATION - Materialized value Taipei_Traffic.
+[32m2023-11-01 02:57:01 +0000[0m - dagster - [34mDEBUG[0m - data_job - e2643524-c2d0-4f33-9f63-d698635ee978 - 961347 - Taipei_Traffic - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-11-01 02:57:01 +0000[0m - dagster - [34mDEBUG[0m - data_job - e2643524-c2d0-4f33-9f63-d698635ee978 - 961347 - Taipei_Traffic - STEP_SUCCESS - Finished execution of step "Taipei_Traffic" in 1m47s.

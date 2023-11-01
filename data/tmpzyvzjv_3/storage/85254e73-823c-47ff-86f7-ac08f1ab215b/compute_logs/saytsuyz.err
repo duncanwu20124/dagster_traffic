@@ -1,0 +1,2 @@
+[32m2023-11-01 03:08:04 +0000[0m - dagster - [34mDEBUG[0m - data_job - 85254e73-823c-47ff-86f7-ac08f1ab215b - 991596 - LOGS_CAPTURED - Started capturing logs in process (pid: 991596).
+[32m2023-11-01 03:08:04 +0000[0m - dagster - [34mDEBUG[0m - data_job - 85254e73-823c-47ff-86f7-ac08f1ab215b - 991596 - Directorate_of_General_Highways - STEP_START - Started execution of step "Directorate_of_General_Highways".

@@ -1,0 +1,7 @@
+[32m2023-11-01 02:57:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966206 - LOGS_CAPTURED - Started capturing logs in process (pid: 966206).
+[32m2023-11-01 02:57:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966206 - OpenData - STEP_START - Started execution of step "OpenData".
+[32m2023-11-01 02:57:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966206 - OpenData - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-11-01 02:57:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - OpenData - Writing file at: /home/duncan/dagster_traffic/data/tmpzyvzjv_3/storage/OpenData
+[32m2023-11-01 02:57:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966206 - OpenData - ASSET_MATERIALIZATION - Materialized value OpenData.
+[32m2023-11-01 02:57:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966206 - OpenData - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-11-01 02:57:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966206 - OpenData - STEP_SUCCESS - Finished execution of step "OpenData" in 527ms.

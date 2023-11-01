@@ -1,0 +1,7 @@
+[32m2023-11-01 02:57:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966473 - LOGS_CAPTURED - Started capturing logs in process (pid: 966473).
+[32m2023-11-01 02:57:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966473 - teamG_GPS - STEP_START - Started execution of step "teamG_GPS".
+[32m2023-11-01 02:57:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966473 - teamG_GPS - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-11-01 02:57:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - teamG_GPS - Writing file at: /home/duncan/dagster_traffic/data/tmpzyvzjv_3/storage/teamG_GPS
+[32m2023-11-01 02:57:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966473 - teamG_GPS - ASSET_MATERIALIZATION - Materialized value teamG_GPS.
+[32m2023-11-01 02:57:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966473 - teamG_GPS - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-11-01 02:57:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - 3ecefe06-8b7f-4773-9a28-44f08db9ebc0 - 966473 - teamG_GPS - STEP_SUCCESS - Finished execution of step "teamG_GPS" in 472ms.

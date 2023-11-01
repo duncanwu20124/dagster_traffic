@@ -1,0 +1,7 @@
+[32m2023-11-01 02:54:24 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959256 - LOGS_CAPTURED - Started capturing logs in process (pid: 959256).
+[32m2023-11-01 02:54:24 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959256 - OIDC_Authentication - STEP_START - Started execution of step "OIDC_Authentication".
+[32m2023-11-01 02:54:25 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959256 - OIDC_Authentication - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-11-01 02:54:25 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - OIDC_Authentication - Writing file at: /home/duncan/dagster_traffic/data/tmpzyvzjv_3/storage/OIDC_Authentication
+[32m2023-11-01 02:54:25 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959256 - OIDC_Authentication - ASSET_MATERIALIZATION - Materialized value OIDC_Authentication.
+[32m2023-11-01 02:54:25 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959256 - OIDC_Authentication - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-11-01 02:54:25 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959256 - OIDC_Authentication - STEP_SUCCESS - Finished execution of step "OIDC_Authentication" in 688ms.

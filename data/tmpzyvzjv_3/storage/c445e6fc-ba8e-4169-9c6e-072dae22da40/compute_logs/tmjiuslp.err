@@ -1,0 +1,7 @@
+[32m2023-11-01 03:07:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - c445e6fc-ba8e-4169-9c6e-072dae22da40 - 989438 - LOGS_CAPTURED - Started capturing logs in process (pid: 989438).
+[32m2023-11-01 03:07:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - c445e6fc-ba8e-4169-9c6e-072dae22da40 - 989438 - selected_area - STEP_START - Started execution of step "selected_area".
+[32m2023-11-01 03:07:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - c445e6fc-ba8e-4169-9c6e-072dae22da40 - 989438 - selected_area - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-11-01 03:07:09 +0000[0m - dagster - [34mDEBUG[0m - data_job - c445e6fc-ba8e-4169-9c6e-072dae22da40 - selected_area - Writing file at: /home/duncan/dagster_traffic/data/tmpzyvzjv_3/storage/selected_area
+[32m2023-11-01 03:07:10 +0000[0m - dagster - [34mDEBUG[0m - data_job - c445e6fc-ba8e-4169-9c6e-072dae22da40 - 989438 - selected_area - ASSET_MATERIALIZATION - Materialized value selected_area.
+[32m2023-11-01 03:07:10 +0000[0m - dagster - [34mDEBUG[0m - data_job - c445e6fc-ba8e-4169-9c6e-072dae22da40 - 989438 - selected_area - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-11-01 03:07:10 +0000[0m - dagster - [34mDEBUG[0m - data_job - c445e6fc-ba8e-4169-9c6e-072dae22da40 - 989438 - selected_area - STEP_SUCCESS - Finished execution of step "selected_area" in 460ms.

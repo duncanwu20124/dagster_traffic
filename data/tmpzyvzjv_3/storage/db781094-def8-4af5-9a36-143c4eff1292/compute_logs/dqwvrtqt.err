@@ -1,0 +1,7 @@
+[32m2023-11-01 03:03:04 +0000[0m - dagster - [34mDEBUG[0m - data_job - db781094-def8-4af5-9a36-143c4eff1292 - 979753 - LOGS_CAPTURED - Started capturing logs in process (pid: 979753).
+[32m2023-11-01 03:03:04 +0000[0m - dagster - [34mDEBUG[0m - data_job - db781094-def8-4af5-9a36-143c4eff1292 - 979753 - getDayData - STEP_START - Started execution of step "getDayData".
+[32m2023-11-01 03:03:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - db781094-def8-4af5-9a36-143c4eff1292 - 979753 - getDayData - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-11-01 03:03:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - db781094-def8-4af5-9a36-143c4eff1292 - getDayData - Writing file at: /home/duncan/dagster_traffic/data/tmpzyvzjv_3/storage/getDayData
+[32m2023-11-01 03:03:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - db781094-def8-4af5-9a36-143c4eff1292 - 979753 - getDayData - ASSET_MATERIALIZATION - Materialized value getDayData.
+[32m2023-11-01 03:03:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - db781094-def8-4af5-9a36-143c4eff1292 - 979753 - getDayData - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-11-01 03:03:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - db781094-def8-4af5-9a36-143c4eff1292 - 979753 - getDayData - STEP_SUCCESS - Finished execution of step "getDayData" in 520ms.

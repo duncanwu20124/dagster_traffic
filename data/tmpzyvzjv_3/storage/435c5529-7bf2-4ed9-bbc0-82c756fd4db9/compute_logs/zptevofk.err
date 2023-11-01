@@ -1,0 +1,7 @@
+[32m2023-11-01 03:04:04 +0000[0m - dagster - [34mDEBUG[0m - data_job - 435c5529-7bf2-4ed9-bbc0-82c756fd4db9 - 982037 - LOGS_CAPTURED - Started capturing logs in process (pid: 982037).
+[32m2023-11-01 03:04:04 +0000[0m - dagster - [34mDEBUG[0m - data_job - 435c5529-7bf2-4ed9-bbc0-82c756fd4db9 - 982037 - Weather_Data - STEP_START - Started execution of step "Weather_Data".
+[32m2023-11-01 03:04:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 435c5529-7bf2-4ed9-bbc0-82c756fd4db9 - 982037 - Weather_Data - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-11-01 03:04:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 435c5529-7bf2-4ed9-bbc0-82c756fd4db9 - Weather_Data - Writing file at: /home/duncan/dagster_traffic/data/tmpzyvzjv_3/storage/Weather_Data
+[32m2023-11-01 03:04:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 435c5529-7bf2-4ed9-bbc0-82c756fd4db9 - 982037 - Weather_Data - ASSET_MATERIALIZATION - Materialized value Weather_Data.
+[32m2023-11-01 03:04:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 435c5529-7bf2-4ed9-bbc0-82c756fd4db9 - 982037 - Weather_Data - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-11-01 03:04:05 +0000[0m - dagster - [34mDEBUG[0m - data_job - 435c5529-7bf2-4ed9-bbc0-82c756fd4db9 - 982037 - Weather_Data - STEP_SUCCESS - Finished execution of step "Weather_Data" in 940ms.

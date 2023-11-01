@@ -1,7 +1,0 @@
-[32m2023-09-05 08:00:03 +0000[0m - dagster - [34mDEBUG[0m - test_job - 5b211af1-d083-4fb5-92b8-1e72f8ab071e - 112125 - LOGS_CAPTURED - Started capturing logs in process (pid: 112125).
-[32m2023-09-05 08:00:03 +0000[0m - dagster - [34mDEBUG[0m - test_job - 5b211af1-d083-4fb5-92b8-1e72f8ab071e - 112125 - Freeway_Bureau - STEP_START - Started execution of step "Freeway_Bureau".
-[32m2023-09-05 08:00:04 +0000[0m - dagster - [34mDEBUG[0m - test_job - 5b211af1-d083-4fb5-92b8-1e72f8ab071e - 112125 - Freeway_Bureau - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
-[32m2023-09-05 08:00:04 +0000[0m - dagster - [34mDEBUG[0m - test_job - 5b211af1-d083-4fb5-92b8-1e72f8ab071e - Freeway_Bureau - Writing file at: /home/duncan/test/tutorial/tmp8fsu75e2/storage/Freeway_Bureau
-[32m2023-09-05 08:00:04 +0000[0m - dagster - [34mDEBUG[0m - test_job - 5b211af1-d083-4fb5-92b8-1e72f8ab071e - 112125 - Freeway_Bureau - ASSET_MATERIALIZATION - Materialized value Freeway_Bureau.
-[32m2023-09-05 08:00:04 +0000[0m - dagster - [34mDEBUG[0m - test_job - 5b211af1-d083-4fb5-92b8-1e72f8ab071e - 112125 - Freeway_Bureau - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
-[32m2023-09-05 08:00:04 +0000[0m - dagster - [34mDEBUG[0m - test_job - 5b211af1-d083-4fb5-92b8-1e72f8ab071e - 112125 - Freeway_Bureau - STEP_SUCCESS - Finished execution of step "Freeway_Bureau" in 1.18s.

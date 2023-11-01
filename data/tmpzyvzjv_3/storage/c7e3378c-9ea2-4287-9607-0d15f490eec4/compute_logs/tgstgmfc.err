@@ -1,0 +1,7 @@
+[32m2023-11-01 02:54:27 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959512 - LOGS_CAPTURED - Started capturing logs in process (pid: 959512).
+[32m2023-11-01 02:54:27 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959512 - getTainanRealtime - STEP_START - Started execution of step "getTainanRealtime".
+[32m2023-11-01 02:54:28 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959512 - getTainanRealtime - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-11-01 02:54:28 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - getTainanRealtime - Writing file at: /home/duncan/dagster_traffic/data/tmpzyvzjv_3/storage/getTainanRealtime
+[32m2023-11-01 02:54:28 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959512 - getTainanRealtime - ASSET_MATERIALIZATION - Materialized value getTainanRealtime.
+[32m2023-11-01 02:54:28 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959512 - getTainanRealtime - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-11-01 02:54:28 +0000[0m - dagster - [34mDEBUG[0m - data_job - c7e3378c-9ea2-4287-9607-0d15f490eec4 - 959512 - getTainanRealtime - STEP_SUCCESS - Finished execution of step "getTainanRealtime" in 477ms.
